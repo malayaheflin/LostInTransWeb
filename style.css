@@ -15,3 +15,10 @@ img {
 .image-descrip {
   color: purple;
 }
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+}
